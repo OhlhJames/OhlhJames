@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OhlhJames
 - 👀 I’m interested in Gaming, Music, Random Number functionality
-- 🌱 I’m currently learning MySQL 
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on anything Honkai: Star Rail related!
 - 📫 How to reach me through message here
 - 😄 Pronouns: he/him
